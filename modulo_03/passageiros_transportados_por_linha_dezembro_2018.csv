@@ -1,13 +1,6 @@
-INFORMAÇÕES SOBRE A DEMANDA - DEZEMBRO/2018;;;;;
-;;;;;
-PASSAGEIROS TRANSPORTADOS POR LINHA¹;;;;;
-;;;;;
-DEMANDA (milhares);Linha 1-Azul ;Linha 2-Verde;Linha 3-Vermelha;Linha 15 - Prata ;Rede
-Total;34.213;16.283;34.178;710;85.383
-Média dos dias úteis ;1.425;711;1.399;32;3.567
-Média dos Sábados ;890;342;933;14;2.179
-Média dos Domingos ;543;237;573;9;1.361
-Máxima Diária ;1.585;786;1.552;37;3.957
-¹ Corresponde à soma das entradas pela linha de bloqueios com as transferências entre linhas nas estações Sé, Paraíso, Ana Rosa e Vila Prudente;;;;;
-A partir de 04/08/18, a Linha 5-Lilás passou a ser operada em regime de concessão pela Via Mobilidade.;;;;;
-Fonte: Diretoria de Operações / Coordenadoria de Informações Gerenciais e Estudos Estratégicos - 24/01/2019;;;;;
+DEMANDA (milhares),Total,MÃ©dia dos dias Ãºteis,MÃ©dia dos SÃ¡bados,MÃ©dia dos Domingos,MÃ¡xima DiÃ¡ria
+Linha 1-Azul,34.213,1.425,890,543,1.585
+Linha 2-Verde,16.283,711,342,237,786
+Linha 3-Vermelha,34178,1399,933,573,1.552
+Linha 15 - Prata,710,32,14,9,37
+Rede,85.383,3567,2.179,1361,3.957

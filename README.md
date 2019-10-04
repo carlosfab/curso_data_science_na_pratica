@@ -11,11 +11,11 @@ Para saber mais, visite:
 
 ## Conteúdo do curso "Data Science na Prática"
 
-* **MÓDULO 1:** Introdução ao Data Science
-* **MÓDULO 2:**  Manipulando Dados com o Pandas
-* **MÓDULO 3:** Visualizando Dados
-* **MÓDULO 4:**  Machine Learning
-* **MÓDULO 5:** Criando um Projeto de Data Science
+* **MÓDULO 1:** [Introdução ao Data Science](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_01)
+* **MÓDULO 2:**  [Manipulando Dados com o Pandas](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_02)
+* **MÓDULO 3:** [Visualizando Dados](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_03)
+* ***MÓDULO 4:**  Machine Learning (apenas para alunos)*
+* ***MÓDULO 5:** Criando um Projeto de Data Science*
 
 ---
 

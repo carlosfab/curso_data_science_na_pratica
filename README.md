@@ -15,8 +15,9 @@ Para saber mais, visite:
 * **MÓDULO 2:**  [Manipulando Dados com o Pandas](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_02)
 * **MÓDULO 3:** [Visualizando Dados](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_03)
 * **MÓDULO 4:** Machine Learning *(apenas para alunos)*
-* **MÓDULO 5:** Criando um Projeto Completo *(apenas para alunos)*
-
+* **MÓDULO 5:** Projeto Completo de Data Science *(apenas para alunos)*
+* **MÓDULO 6:** Criando um Dashboard *(apenas para alunos)*
+* **MÓDULO 7:** Deep Learning *(apenas para alunos)*
 ---
 
 ### Sobre o Instrutor:

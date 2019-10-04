@@ -2,13 +2,15 @@
     <a href="http://sigmoidal.ai" alt="Contributors">
         <img src="https://img.shields.io/badge/sigmoidal-ai-yellow" />
     </a>
-  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" height="20px">
-  </a>
+    <img src="/img/python-logo.svg">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR">
+        <img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" height="20px">
+    </a>
 </p>
 
 # Data Science na Prática
 
-Material complementar ao treinamento online "Data Science na Prática". Para saber mais informações sobre esse curso voltádo para o universo de *Data Science*, visite:
+Material complementar ao treinamento online "Data Science na Prática". Para saber mais informações sobre esse curso, visite os sites:
 
 * Site do curso [Data Science na Prática](https://curso.sigmoidal.ai?utm_source=github)
 * Blog [Sigmoidal](https://curso.sigmoidal.ai)

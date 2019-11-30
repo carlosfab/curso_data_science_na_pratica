@@ -8,14 +8,14 @@
     </a>
 </p>
 
-# Data Science na Prática
+# Introdução ao Python
 
 Material complementar ao treinamento online "Data Science na Prática". Para saber mais informações sobre esse curso, visite os sites:
 
 * Site do curso [Data Science na Prática](https://curso.datasciencenapratica.com/)
 * Blog [Sigmoidal](https://curso.sigmoidal.ai)
 
-## Conteúdo do curso "Data Science na Prática"
+## Conteúdo do curso "Introdução ao Python"
 
 * [Introdução ao Python](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_01)
 

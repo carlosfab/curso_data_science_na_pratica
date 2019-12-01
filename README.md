@@ -8,16 +8,23 @@
     </a>
 </p>
 
-# Introdução ao Python
+# Data Science na Prática
 
 Material complementar ao treinamento online "Data Science na Prática". Para saber mais informações sobre esse curso, visite os sites:
 
 * Site do curso [Data Science na Prática](https://curso.datasciencenapratica.com/)
 * Blog [Sigmoidal](https://curso.sigmoidal.ai)
 
-## Conteúdo do curso "Introdução ao Python"
+## Conteúdo do curso "Data Science na Prática"
 
-* [Introdução ao Python](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_01)
+* **MÓDULO 1:** [Introdução ao Data Science](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_01)
+* **MÓDULO 2:**  [Manipulando Dados com o Pandas](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_02)
+* **MÓDULO 3:** [Visualizando Dados](https://github.com/carlosfab/curso_data_science_na_pratica/tree/master/modulo_03)
+* **MÓDULO 4:** Machine Learning *(apenas para alunos)*
+* **MÓDULO 5:** Projeto Completo de Data Science *(apenas para alunos)*
+* **MÓDULO 6:** Criando um Dashboard *(apenas para alunos)*
+* **MÓDULO 7:** Deploy *(apenas para alunos)*
+* **MÓDULO 8:** Big Data e PySpark*
 
 ---
 

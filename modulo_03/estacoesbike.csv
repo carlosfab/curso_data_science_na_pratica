@@ -1,0 +1,81 @@
+codigo;nome;latitude;longitude;localizacao;capacidadebikes
+1;1 - Prefeitura;-8.05529;-34.87221;Prefeitura;15
+2;2 - Praça Tiradentes;-8.05873;-34.87247;Praça Tiradentes;15
+3;3 - Praça do Arsenal;-8.061392;-34.871049;Rua do Bom Jesus com Rua Barão Rodrigues Mendes;23
+4;4 - Boulevard Rio Branco;-8.0625979;-34.872696;Av. Rio Branco;23
+5;5 - Paço Alfândega;-8.063705;-34.8742113;Paço Alfândega;23
+6;6 - Cais de Santa Rita;-8.06707;-34.8757;Cais de Santa Rita;15
+7;7 - Praça da República;-8.06112;-34.87839;Praça da República;19
+8;8 - Praça da Independência;-8.06418;-34.87837;Praça da Independência;23
+9;9 - Praça Joaquim Nabuco;-8.06444;-34.88135;Praça Joaquim Nabuco;23
+10;10 - Casa da Cultura;-8.06673;-34.88294;Casa da Cultura;27
+11;11 - Ponte do Limoeiro;-8.05039;-34.87397;Ponte do Limoeiro;15
+12;12 - Camilo Simões;-8.05316;-34.87581;Obelisco Aurora;23
+13;13 - Tortura Nunca Mais;-8.056193;-34.878319;Tortura Nunca Mais;19
+14;14 - Parque Treze de Maio;-8.05854;-34.88106;Parque Treze de Maio;19
+15;15 - Cine São Luiz;-8.0623763;-34.8819838;Rua Dr. Sebastião Lins, lateral do Cinema São Luiz;11
+16;16 - Matriz da Boa Vista;-8.06263;-34.88519;Matriz da Boa Vista;15
+17;17 - Igreja de Santa Cruz;-8.06231;-34.88813;Igreja de Santa Cruz;15
+18;18 - Riachuelo;-8.05826;-34.88571;Riachuelo;15
+19;19 - Sossego.;-8.0543316;-34.8840345;Rua Gervásio Pires, em frente ao número 826 e oposto ao Conselho Tutelar;15
+20;20 - Palmares;-8.0534341;-34.882595;Rua Gervásio Pires, oposto ao número 1075;15
+21;21 - Diário de Pernambuco;-8.0512256;-34.87922;Diário de Pernambuco;15
+22;22 - Frei Cassimiro;-8.0480364;-34.8780758;Frei Cassimiro;15
+23;23 - SESC Santo Amaro;-8.0499004;-34.8827713;Praça do Campo Santo, oposto ao SESC / esquina com Rua do Pombal;19
+24;24 - Cemitério de Santo Amaro;-8.051161;-34.8862102;Cemitério de Santo Amaro;15
+25;25 - Rua do Lazer;-8.0542505;-34.8881673;Rua Afonso Pena esquina com a Rua Bernardo Guimarães / Universidade Católica de Pernambuco;19
+26;26 - Praça Oswaldo Cruz;-8.0546704;-34.8910526;Praça Oswaldo Cruz / esquina com a Rua João Fernandes Vieira;19
+27;27 - Rua da Soledade;-8.0579007;-34.8899672;Rua da Soledade, oposto ao 259, próximo ao Posto de Atendimento VEM / esquina com Av Conde da Boa Vista;15
+28;28 - Salesiano;-8.0613555;-34.8921045;Rua Joaquim de Brito em frente ao número 29 / esquina com Rua Visconde de Goiana;15
+29;29 - Praça Miguel de Cervantes;-8.065077;-34.8937564;Rua Praça Dr Fernando Figueira em frente à Praça Miguel de Cervantes;15
+30;30 - SJCC;-8.0534257;-34.8787347;R. Capitão Lima em frente ao número 250 / Sistema Jornal do Commercio de Comunicação (SJCC);15
+31;31 - Epaminondas;-8.0605663;-34.8982899;Rua Epaminondas de Melo, oposto ao numero 195 / oposto Hapvida;11
+32;32 - Praça Chora Menino;-8.0606218;-34.8951776;Rua Doná Benvinda, oposta ao número 230, próximo à Praça Chora Menino;15
+33;33 - CNBB;-8.0583128;-34.8944371;Rua Dom Bosco, oposto ao número 895 / Conferência Nacional dos Bispos do Brasil;15
+34;34 - R. Silva Ramos;-8.0560306;-34.8964212;Rua Silva Ramos, oposto ao número 37 / esquina com Av Governador Carlos de Lima Cavalcanti;15
+35;35 - Praça do Derby;-8.0560671;-34.8991701;R. Praça do Derby, proximo à Rua Feliciano Gomes / ao lado do ponto de ônibus;23
+36;36 - Politécnica;-8.0595212;-34.9038211;Rua Prof Benedito Monteiro, oposto à entrada do estacionamento da Escola Politécnica de Pernambuco (em frente à Lanchonete do Tio);23
+37;37 - Praça João Pereira Borges;-8.0544086;-34.9018285;Rua Guilherme Pinto, em frente a Praça João Pereira Borges / próximo a Rua Dr Osvaldo Lima;15
+38;38 - Ponte da Capunga;-8.0520241;-34.9050039;Av Beira Rio, oposto ao número 771;15
+39;39 - Instituto Capibaribe;-8.0505195;-34.9018615;Rua das Graças, oposto ao número 20 / em frente ao Instituto Capibaribe;15
+40;40 - Beira Rio;-8.047239;-34.9042585;Av Beira Rio, na baia de estacionamento oposta à Praça Domingos Giovanetti / próximo à Rua Clóvis Beviláqua;17
+41;41 - Colégio Agnes Erskine;-8.0466918;-34.9013058;Rua Ten. Antônio João, lateral do Edifício Empresarial Rui Barbosa / próximo ao Colégio Presbiteriano Agnes Erskine;15
+42;42 - Praça do Entrocamento;-8.0504888;-34.896989;Praça do Entroncamento, próximo a Av Conselheiro Rosa e Silva;15
+43;43 - Rua Samuel Pinto;-8.0520986;-34.8926042;Rua Samuel Pinto, oposto ao Conselho Estadual de Saúde de Pernambuco / esquina com Rua João Fernandes Vieira;15
+44;44 - Praça Otília;-8.0493548;-34.8926596;Av Montevidéo, oposto ao número 276, em frente à Praça Otília;11
+45;45 - R. Bruno Maia;-8.0469895;-34.8969794;Rua Bruno Maia, oposto ao número 505 / esquina com Av Conselheiro Rosa e Silva;15
+46;46 - R. Adalberto Camargo;-8.0442128;-34.8997584;Rua Adalberto Camargo oposto ao número 82;15
+47;47 - Faculdade Damas;-8.0390186;-34.9029058;Av. Doutor Malaquias oposto ao número 1426-B Faculdade Damas;23
+48;48 - Parque da Jaqueira;-8.0366798;-34.9033728;Rua do Futuro, esquina com Rua Neto de Mendonça / oposto ao Parque da Jaqueira;23
+49;49 - R. Gen. Abreu e Lima;-8.0348583;-34.900417;Rua Neto de Mendonça em frente ao número 230;15
+50;50 - Casa Rosada.;-8.0351458;-34.8973164;Av Santos Dumont, oposto ao número 657 (Casa Rosada) / esquina com R. Dr. José Maria.;15
+51;51 - Praça da FEB;-8.0401811;-34.8948252;Rua Quarenta e Oito, oposto ao número 725 / Praça da FEB;11
+52;52 - Club do Nautico;-8.0420719;-34.8974496;Rua da Agustura em frente ao número 38 / próximo ao Clube Náutico Capibaribe;15
+53;53 - Rua Dr. Vicente Meira;-8.043955;-34.894815;Rua Dr. Vicente Meira, oposto ao número 201 e ao São Braz / esquina com Rua Santo Elias;11
+54;54 - Venezuela.;-8.047012;-34.8947475;Rua Venezuela oposto ao número 215 / esquina com Rua da Hora;15
+55;55 - Hospital Oswaldo Cruz.;-8.0478164;-34.8881181;Rua Doutor Carlos Chagas, oposto a entrada da Casa de Acolhimento / próximo ao Campus Santo Amaro - UPE;15
+56;56 -R. Bernardino Soares da Silva;-8.0444877;-34.8907734;Rua Bernardino Soares da Silva, em frente ao número 50 / esquina com Rua Quarenta e Oito;15
+57;57 - R. Alfredo de Medeiros;-8.0418614;-34.8905709;Rua Alfredo de Medeiros em frente ao número 44 e oposto ao Posto de Gasolina Shell / esquina com Av João de Barros;11
+58;58 - Mercado da Encruzilhada;-8.0369899;-34.8913845;Praça Largo da Encruzilhada, próximo a Rua Amaro Coutinho e ao Mercado da Encruzilhada;23
+59;59 - Praça do Rosarinho;-8.0327102;-34.8967708;Rua Amaro Coutinho, oposto a Praça do Rosarinho / esquina com Av Norte Miguel Arraes de Alencar;15
+60;60 - Pina;-8.09891;-34.88402;Pina;27
+61;61 - Segundo Jardim;-8.10487;-34.88679;Segundo Jardim;27
+62;62 - Prof. José Brandão;-8.11367;-34.89104;Prof. José Brandão;27
+63;63 - Padre Carapuceiro;-8.1210098;-34.8954169;Padre Carapuceiro;27
+64;64 - R. Verdes Mares;-8.1352308;-34.9013796;R. Verdes Mares;19
+65;65 - Parque Dona Lindú;-8.14211;-34.90362;Parque Dona Lindú;39
+66;66 - Rua Eng. Antônio Jucá;-8.1666331;-34.9144867;Av Beira Mar, próximo a Rua Engenheiro Antônio Jucá;15
+67;67 - Shopping Guararapes;-8.1663378;-34.9155497;Av Ayrton Senna da Silva no canteiro central oposto ao Posto de Gasolina Total / próximo da Rua Arão Lins de Andrade;19
+68;68 - Faculdade Guararapes;-8.1626977;-34.9163684;Rua Prof Silvia Ferreira, oposto ao número 131 / em frente a Faculdade dos Guararapes / esquina com Rua Comendador José Didier;19
+69;69 - Praça Massangana;-8.1571898;-34.915636;Praça Massangana, em frente a Av Zequinha Barreto;17
+70;70 - Metrô Monte dos Guararapes;-8.1543814;-34.9195828;Rua São João em frente à estação de metrô Monte dos Guararapes / esquina com Av Zequinha Barreto;23
+71;71 - Mercado Eufrásio Barbosa;-8.0203374;-34.8537242;Praça do Varadouro / esquina com Av Sigismundo Gonçalves;17
+72;72 - Praça do Carmo;-8.0169892;-34.8485236;Praça do Carmo / esquina Av. Sigismundo Gonçalves e Av. Liberdade;23
+73;73 - Praça Doze de Março;-8.0098717;-34.8423464;Praça Doze de Março / esquina com R. Cel. Henrique Guimarães;11
+74;74 - R. João Cardoso Aires;-8.1430512;-34.9062126;RUA VISCONDE DE JEQUITINHONHA, OPOSTO AO Nº 2616,A1;15
+75;75 - Alberto Lundgren;-8.0026105;-34.8395305;Av Ministro Marcos Freire, na calçada oposto ao número 1065 / próximo a Rua Alberto Lundgren;15
+76;76 - R. Dr. Manoel de Barros Lima;-7.9965628;-34.8387641;Av Ministro Marcos Freire, na calçada oposto ao número 1755 / próximo a Rua Dr Manoel de Barros Lima;17
+77;77 - Praia da Casa Caiada;-7.9885679;-34.8382621;Av Ministro Marcos Freire, na baia de estacionamento oposta ao número 2585 / próximo a Rua Jorn. Luís Andrade;19
+78;78 - CCS UFPE;-8.0501954;-34.9473543;Av da Engenharia, dentro do estacionamento do centro de ciências da saude UFPE;23
+79;79 - NIATE UFPE;-8.0550577;-34.9526868;Av Jornalista Anibal Fernandes, em frente ao Nucleo Integrado de Atividades de Ensino (Niate) - UFPE;23
+80;80 -Restaurante Universitário UFPE;-8.0508827;-34.9534389;Estacionamento do CAC, próximo ao Restaurante Universitário / Esquina com a Avenida dos Funcionários;31
